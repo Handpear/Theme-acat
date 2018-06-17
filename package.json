@@ -1,0 +1,26 @@
+{
+    "name": "theme-acat",
+    "displayName": "Theme acat",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "handpear",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Theme acat",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Theme acat-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Handpear/Theme-acat.git"
+    }
+}
