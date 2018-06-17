@@ -2,7 +2,7 @@
 	"name": "Theme acat",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#1e1e1e",
+		"editor.background": "#ffffff",
 		"editor.foreground": "#d4d4d4",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
