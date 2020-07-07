@@ -3,7 +3,7 @@
     "type": "dark",
     "colors": {
         // 基本
-        "focusBorder": "#E6844400",
+        "focusBorder": "#A3510011",
         "foreground": "#FFFFCC",
         "selection.background": "#58BDDD",
         "descriptionForeground": "#FFFFBB",
