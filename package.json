@@ -1,11 +1,17 @@
 {
     "name": "theme-acat",
-    "displayName": "Theme acat",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "Theme acat主题",
+    "description": "一款自用主题配色，配色参考了vscode-arc-theme主题",
+    "keywords": [
+        "theme",
+        "plugin"
+    ],
+    "version": "0.2.0",
     "publisher": "handpear",
-    "engines": {
-        "vscode": "^1.24.0"
+    "author": {
+        "name": "handpear",
+        "email": "handpear@outlook.com",
+        "url": "https://github.com/Handpear"
     },
     "categories": [
         "Themes"
@@ -19,8 +25,22 @@
             }
         ]
     },
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#CC6600",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "license": "SEE LICENSE IN LICENSE.txt",
+    "bugs": {
+        "url": "https://github.com/Handpear/Theme-acat/issues",
+        "email": "handpear@outlook.com"
+    },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Handpear/Theme-acat.git"
-    }
+        "url": "https://github.com/Handpear/Theme-acat"
+    },
+    "homepage": "https://github.com/Handpear/Theme-acat/blob/master/README.md"
 }
