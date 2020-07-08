@@ -113,8 +113,8 @@
         "list.inactiveSelectionForeground": "#999999",
         "list.warningForeground": "#E68444",
         "list.errorForeground": "#E03C8A",
-        "list.hoverForeground": "#FFFFBB",
-        "list.highlightForeground": "#93a1a1",
+        "list.hoverForeground": "#A2A2A2",
+        "list.highlightForeground": "#99CCFF",
         //按钮
         "button.background": "#FF6600",
         "button.foreground": "#FFFFCC",
